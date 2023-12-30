@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+frame[name="f11"] {
+    background-color: #184e49;
+    color: #fff;
+}
+
+frame[name="f12"] {
+    background-color: #e9e8c4;
+    color: #fff;
+}
+
+frame[name="f31"] {
+    background-color: #e9e8c4;
+    color: #fff;
+}
+
+frame[name="ft"] {
+    background-color: snow;
+    color: #fff;
+}
